@@ -1,0 +1,6 @@
+O que já aprendi no Bootcamp TQI Kotlin da dio?
+Indrotução à cultura ágil, velocidade nem sempre quer dizer agilidade!!
+aprendi sobre os valores do manifesto ágil! 4 valores e 12 princípios do manifesto.
+Foi falado sobre os Métodos e Ferramentas ágeis, entre eles o Scrum, que é um framework leve, gera valor por meio de soluções adaptativas. A base do Scrum -> Empirismo e Lean Thinkin. Pilares do Scrum -> Transparência, Inspeção e Adpatação.
+Aprendi sobre Pensamento computacional, um pensamento sistemático e eficiente, baseado em 4 pilares -> Decomposição, Reconhecimento de padrões, abstração e design de algoritmos. 
+E introdução ao git/github, como criar repositório e ficar atualizando. 
